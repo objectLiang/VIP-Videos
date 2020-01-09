@@ -1,0 +1,6 @@
+com\liang\util\HttpUtils.class
+com\liang\util\ResultVOUtil.class
+com\liang\config\ResourcesConfiguration.class
+com\liang\VO\ResultVO.class
+com\liang\controller\UploadFile.class
+com\liang\liangApplication.class

@@ -1,0 +1,14 @@
+{
+	 "links": [
+        {
+            "name": "毒液",
+            "url": "https://youku.iqiyi-yongjiu.com/20181122/7GgrAwRE/index.m3u8"
+        }
+    ],
+    "urls": [
+			    {"site":"1-推荐","url":"https://api.47ks.com/webcloud/?v="},
+			    {"site":"2","url":"https://vip.mpos.ren/v/?url="},
+			    {"site":"3","url":"https://jx.lache.me/cc/?url="},
+			    {"site":"4","url":"https://cdn.yangju.vip/k/?url="}
+			]
+}

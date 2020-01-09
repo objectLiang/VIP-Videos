@@ -1,0 +1,8 @@
+server:
+  port: 8088
+
+spring: 
+  http: 
+    multipart: 
+      maxFileSize: 15Mb
+      maxRequestSize: 10Mb
